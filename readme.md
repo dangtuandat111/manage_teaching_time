@@ -4,6 +4,9 @@
   
   
 # Hệ thống quản lý giờ giảng của giảng viên
+## Tác giả
+  TRAN VAN AN - UET - VNU
+  Email : `tranvananuet@gmail.com`
 ## Framework 
   Laravel
 ## Ngôn ngữ
@@ -33,5 +36,4 @@
 - Đăng nhập hệ thống bằng tài khoản phòng đào tạo `admindemo@gmail.com` va mật khẩu: `123456`
 - Đăng nhập hệ thống bằng tài khoản giáo viên : `anhnv@vnu.edu.vn` và mật khẩu là `123456`
 ## Contacts
-- Trong quá trình demo, có thể xảy ra lỗi, mong nhận được sự đóng góp nhiệt tình
-- email : `tranvananuet@gmail.com`
+  Trong quá trình demo, có thể xảy ra lỗi, mong nhận được sự đóng góp nhiệt tình
