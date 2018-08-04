@@ -5,8 +5,8 @@
   
 # Hệ thống quản lý giờ giảng của giảng viên
 ## Tác giả
-  TRAN VAN AN - UET - VNU
-  Email : `tranvananuet@gmail.com`
+- TRAN VAN AN - UET - VNU
+- Email : `tranvananuet@gmail.com`
 ## Framework 
   Laravel
 ## Ngôn ngữ
